@@ -1,5 +1,3 @@
 # PS4-platinum-headset-pc-
 An application for the PS4 Platinum headset on PC that allows you to monitor battery percentage, active game mode, volume level, and more.
-Unofficial Windows utility for Sony Platinum Wireless Headset.
-Not affiliated with or endorsed by Sony Interactive Entertainment.
 Disclaimer: This is an unofficial application. Use it at your own risk. The developer assumes no responsibility for any potential damage or issues caused to your headset.
